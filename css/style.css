@@ -105,4 +105,11 @@ img.icons{
 		margin-top: 5vh;
 	}
 
+	.footdynamic{
+	width: 100%;
+	height: auto;
+	bottom: 0px;
+	position: relative !important;
+}
+
 }
