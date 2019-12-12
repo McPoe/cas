@@ -19,16 +19,29 @@ body.bgIMG
 
 .logotype{
 	width: 100%;
-	display: block;
-	background: rgba(255,255,255,1);
-	height: auto;
-	top: 0px;
+	display: fixed;
+	height: 10vh;
+	top: 0;
 	position: absolute;
+}
+
+.loginfull{
+	background-color: #FFF;
+	width: 40%;
+	height: auto;
+	padding: 3vh;
+	position: absolute;
+	margin: 0 auto;
+	text-align: center;
+}
+
+form > input {
+	margin: 15px 0px;
 }
 
 .logochedr{
 	width: 350px;
-	padding: 20px 0px;
+	padding: 20px 0;
 }
 
 .divmiddle{
@@ -71,7 +84,7 @@ img.icons{
 	width: 100%;
 	display: fixed;
 	height: auto;
-	bottom: 0px;
+	bottom: 0;
 	position: absolute;
 }
 
