@@ -26,7 +26,7 @@ body.bgIMG
 }
 
 .loginfull{
-	background-color: #FFF;
+	background-color: rgb(255, 255, 255, .8);
 	width: 90%;
 	height: auto;
 	padding: 6vh 3vh;
