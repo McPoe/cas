@@ -27,21 +27,30 @@ body.bgIMG
 
 .loginfull{
 	background-color: #FFF;
-	width: 40%;
+	width: 90%;
 	height: auto;
-	padding: 3vh;
+	padding: 6vh 3vh;
 	position: absolute;
-	margin: 0 auto;
 	text-align: center;
+	top: -15em;
 }
 
-form > input {
-	margin: 15px 0px;
+.form-control {
+	margin: 20px 0px;
 }
 
-.logochedr{
-	width: 350px;
-	padding: 20px 0;
+
+.loginin{
+	width: 200px;
+	padding: 10px;
+	background-color: #1a5da3;
+	color: #FFF;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.loginin:hover{
+	box-shadow: 1px 1px 10px #1a5da3;
 }
 
 .divmiddle{
