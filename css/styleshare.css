@@ -43,22 +43,13 @@ body.bgIMG
 	top: -15em;
 }
 
-.form-control {
-	margin: 20px 0px;
-}
-
-
-.loginin{
-	width: 200px;
-	padding: 10px;
-	background-color: #1a5da3;
-	color: #FFF;
-	margin: 10px;
-	border-radius: 5px;
-}
-
-.loginin:hover{
-	box-shadow: 1px 1px 10px #1a5da3;
+.infoAgent{
+	position: relative;
+	right: 1em;
+	color: #1a5da3;
+	text-align: right;
+	list-style: none;
+	margin-top: -5em;
 }
 
 .divmiddle{
@@ -109,16 +100,8 @@ img.icons{
   .logocas{
   	width: 20vh;
   	padding-left: 1em;
+  	margin-top: 0;
   }
-
-  .divmiddle{
-	margin-top: 70px;
-	margin-bottom: 0px;	
-	}
-
-  .inform{
-	top: 10vh;
-	}
 
 	img.icons{
 	max-width: 100px;
@@ -134,6 +117,10 @@ img.icons{
 
 	.iconos{
 		margin-top: 5vh;
+	}
+
+	li {
+		font-size: 11px !important;
 	}
 
 }
