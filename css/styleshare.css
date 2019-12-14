@@ -33,16 +33,6 @@ body.bgIMG
 	padding-bottom: 1em;
 }
 
-.loginfull{
-	background-color: rgb(255, 255, 255, .8);
-	width: 90%;
-	height: auto;
-	padding: 6vh 3vh;
-	position: absolute;
-	text-align: center;
-	top: -15em;
-}
-
 .infoAgent{
 	position: relative;
 	right: 1em;
@@ -52,23 +42,13 @@ body.bgIMG
 	margin-top: -5em;
 }
 
-.divmiddle{
-	margin-top: 30px;
-	margin-bottom: 30px;
-}
-
-.inform{
-	position: absolute;
-	top: 15vh;
-}
-
 .textes{
 	color: #FFF;
 	text-shadow: 1px 1px 3px #0053a0;
 }
 
 h1.textes{
-	padding: 50px 0;
+	padding: 10px 0;
 	font-size: 42px;
 }
 
@@ -101,6 +81,7 @@ img.icons{
   	width: 20vh;
   	padding-left: 1em;
   	margin-top: 0;
+  	margin-bottom: 1em;
   }
 
 	img.icons{
@@ -109,10 +90,6 @@ img.icons{
 
 	h1.textes{
 		font-size: 28px;
-	}
-
-	p.textes{
-		font-size: 20px;
 	}
 
 	.iconos{
